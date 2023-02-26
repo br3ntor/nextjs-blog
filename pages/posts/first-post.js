@@ -19,7 +19,7 @@ export default function FirstPost() {
         <title>First Post</title>
       </Head>
       <h1>It's Shelby!</h1>
-      <YourComponent />
+      {/* <YourComponent /> */}
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
